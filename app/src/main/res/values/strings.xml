@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">packages</string>
+    <string name="installed_packages">Installed packages</string>
+</resources>
